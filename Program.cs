@@ -4,6 +4,7 @@ class Program
     static void Main()
     {
         Console.WriteLine("MASTER");
+        Console.WriteLine("CCOONNFFLLIICCTT");
         Console.WriteLine("1");
         Console.WriteLine("2");
         Console.WriteLine("3");
