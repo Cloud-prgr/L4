@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="BJzOn8gTp_OUUVRhEep7">
+    <mxGraphModel dx="423" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MskaQ9A9YmWzCmyotqT1-9" edge="1" parent="1" source="MskaQ9A9YmWzCmyotqT1-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="MskaQ9A9YmWzCmyotqT1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MskaQ9A9YmWzCmyotqT1-10" edge="1" parent="1" source="MskaQ9A9YmWzCmyotqT1-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="MskaQ9A9YmWzCmyotqT1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MskaQ9A9YmWzCmyotqT1-11" edge="1" parent="1" source="MskaQ9A9YmWzCmyotqT1-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="MskaQ9A9YmWzCmyotqT1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MskaQ9A9YmWzCmyotqT1-12" edge="1" parent="1" source="MskaQ9A9YmWzCmyotqT1-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="MskaQ9A9YmWzCmyotqT1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MskaQ9A9YmWzCmyotqT1-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Головной модуль&lt;div&gt;(Main module)&lt;/div&gt;&lt;div&gt;M1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="340" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MskaQ9A9YmWzCmyotqT1-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Модуль поставщиков&lt;div&gt;(Supplier module)&lt;/div&gt;&lt;div&gt;M1.1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="70" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MskaQ9A9YmWzCmyotqT1-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Модуль деталей&lt;div&gt;(Part module)&lt;/div&gt;&lt;div&gt;M1.2&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="250" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MskaQ9A9YmWzCmyotqT1-13" edge="1" parent="1" source="MskaQ9A9YmWzCmyotqT1-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="MskaQ9A9YmWzCmyotqT1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MskaQ9A9YmWzCmyotqT1-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Модуль закупок&lt;div&gt;(Purchase module)&lt;/div&gt;&lt;div&gt;M1.3&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="430" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MskaQ9A9YmWzCmyotqT1-14" edge="1" parent="1" source="MskaQ9A9YmWzCmyotqT1-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="MskaQ9A9YmWzCmyotqT1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MskaQ9A9YmWzCmyotqT1-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Модуль отчётов&lt;div&gt;(Report module)&lt;/div&gt;&lt;div&gt;M1.4&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="610" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MskaQ9A9YmWzCmyotqT1-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Модуль учёта цен&lt;div&gt;(Price module)&lt;br&gt;M1.3.1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="520" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="v0q6UYLKQXKONefuvhCR-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;i&gt;Сросшиеся ветви&lt;/i&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="555" y="215" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
