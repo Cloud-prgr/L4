@@ -1,0 +1,32 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="CCrGT6OU7dTITex3gqhn">
+    <mxGraphModel dx="423" dy="809" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JNOBb78ssAc5mWWzBteR-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Фирма по продаже автозапчастей" vertex="1">
+          <mxGeometry height="120" width="162" x="1" y="2" as="geometry" />
+        </mxCell>
+        <mxCell id="JNOBb78ssAc5mWWzBteR-4" edge="1" parent="1" source="JNOBb78ssAc5mWWzBteR-2" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;endArrow=none;endFill=0;" target="JNOBb78ssAc5mWWzBteR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JNOBb78ssAc5mWWzBteR-6" connectable="0" parent="JNOBb78ssAc5mWWzBteR-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;fontSize=10;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="Поставка запчастей" vertex="1">
+          <mxGeometry relative="1" x="-0.082" y="2" as="geometry">
+            <mxPoint x="-16" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JNOBb78ssAc5mWWzBteR-5" edge="1" parent="1" source="JNOBb78ssAc5mWWzBteR-2" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;endArrow=none;endFill=0;" target="JNOBb78ssAc5mWWzBteR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JNOBb78ssAc5mWWzBteR-7" connectable="0" parent="JNOBb78ssAc5mWWzBteR-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;fontSize=10;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="Уведомление об изменении&lt;div&gt;цены (дата, новое значение)&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.3234" y="-2" as="geometry">
+            <mxPoint x="17" y="23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JNOBb78ssAc5mWWzBteR-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="&lt;b&gt;Поставщики&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="334" y="32" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
