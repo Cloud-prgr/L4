@@ -12,5 +12,6 @@ class Program
 
         Console.WriteLine("New function");
 	Console.WriteLine("Second new function");
+	Console.WriteLine("Last function");
     }
 }
